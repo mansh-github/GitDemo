@@ -1,0 +1,40 @@
+16:03:47.803 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+16:03:47.714 [TestNG-tests-2] INFO  resources.Base - this is Landing page
+16:03:48.662 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+16:03:52.489 [TestNG-tests-2] INFO  resources.Base - clicked on login link
+16:03:52.667 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+16:03:57.140 [TestNG-tests-2] INFO  resources.Base - clicked on forgotpassword link
+16:03:58.040 [TestNG-tests-2] INFO  resources.Base - successfull done
+16:03:58.570 [TestNG-tests-2] INFO  resources.Base - HomePage driver is closed
+16:45:11.942 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+16:45:25.202 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+16:45:26.458 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+16:45:27.287 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+17:01:30.843 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+17:01:44.076 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+17:01:44.620 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+17:01:46.463 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+17:02:43.305 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+17:02:52.394 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+17:02:52.730 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+17:02:53.001 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+17:05:23.686 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+17:05:37.261 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+17:05:37.648 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+17:05:38.073 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+17:06:38.031 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+17:06:55.892 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+17:06:57.246 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+17:06:57.687 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+19:46:37.546 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is initialized
+19:46:37.546 [TestNG-tests-2] INFO  resources.Base - HomePage driver is initialized
+19:46:37.913 [TestNG-tests-2] INFO  resources.Base - Validating dataprovider test data
+19:46:38.281 [TestNG-tests-2] INFO  resources.Base - clicked on url
+19:47:01.741 [TestNG-tests-1] INFO  resources.Base - Navigated Landing to home page
+19:47:01.805 [TestNG-tests-2] INFO  resources.Base - this is Landing page
+19:47:06.056 [TestNG-tests-1] INFO  resources.Base - Successfully validated FEATURED COURSES
+19:47:11.223 [TestNG-tests-2] INFO  resources.Base - clicked on login link
+19:47:15.021 [TestNG-tests-1] INFO  resources.Base - LandingPage driver is closed
+19:47:15.283 [TestNG-tests-2] INFO  resources.Base - clicked on forgotpassword link
+19:47:16.167 [TestNG-tests-2] INFO  resources.Base - successfull done
+19:47:18.318 [TestNG-tests-2] INFO  resources.Base - HomePage driver is closed

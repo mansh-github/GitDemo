@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62522" started-at="2021-05-22T19:46:15 IST" finished-at="2021-05-22T19:47:18 IST">
+    <groups>
+    </groups>
+    <test name="HomePage Test" duration-ms="62522" started-at="2021-05-22T19:46:15 IST" finished-at="2021-05-22T19:47:18 IST">
+      <class name="ManvenProjects.Academy.HomePage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ManvenProjects.Academy.HomePage@6e9175d8]" name="beforeTest" is-config="true" duration-ms="21850" started-at="2021-05-22T19:46:15 IST" finished-at="2021-05-22T19:46:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="baseNavigation(java.lang.String, java.lang.String)[pri:0, instance:ManvenProjects.Academy.HomePage@6e9175d8]" name="baseNavigation" duration-ms="38211" started-at="2021-05-22T19:46:37 IST" data-provider="getData" finished-at="2021-05-22T19:47:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstuser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ManvenProjects.Academy.HomePage@6e9175d8]" name="afterTest" is-config="true" duration-ms="2144" started-at="2021-05-22T19:47:16 IST" finished-at="2021-05-22T19:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ManvenProjects.Academy.HomePage -->
+    </test> <!-- HomePage Test -->
+    <test name="LandingValidation Test" duration-ms="59225" started-at="2021-05-22T19:46:15 IST" finished-at="2021-05-22T19:47:15 IST">
+      <class name="ManvenProjects.Academy.LandingValidation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ManvenProjects.Academy.LandingValidation@1ffaf86]" name="beforeTest" is-config="true" duration-ms="21850" started-at="2021-05-22T19:46:15 IST" finished-at="2021-05-22T19:46:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="baseNavigation()[pri:0, instance:ManvenProjects.Academy.LandingValidation@1ffaf86]" name="baseNavigation" duration-ms="28100" started-at="2021-05-22T19:46:37 IST" finished-at="2021-05-22T19:47:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ManvenProjects.Academy.LandingValidation@1ffaf86]" name="afterTest" is-config="true" duration-ms="8596" started-at="2021-05-22T19:47:06 IST" finished-at="2021-05-22T19:47:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ManvenProjects.Academy.LandingValidation -->
+    </test> <!-- LandingValidation Test -->
+  </suite> <!-- Suite -->
+</testng-results>
