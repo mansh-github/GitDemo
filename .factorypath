@@ -42,5 +42,5 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/io/cucumber/create-meta/2.0.2/create-meta-2.0.2.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/io/cucumber/cucumber-junit/6.7.0/cucumber-junit-6.7.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/io/cucumber/cucumber-testng/6.10.4/cucumber-testng-6.10.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/io/cucumber/cucumber-testng/6.7.0/cucumber-testng-6.7.0.jar" enabled="true" runInBatchMode="false"/>
 </factorypath>
