@@ -17,9 +17,6 @@ import pageObjects.LandingPage;
 import resources.Base;
 
 public class LandingValidation extends Base {
-
-	
-	// This is test commit
 	
 	
 	WebDriver webDriver;
